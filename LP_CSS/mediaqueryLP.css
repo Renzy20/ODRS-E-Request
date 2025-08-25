@@ -1,0 +1,224 @@
+@media (max-width: 1028px) {
+    .image-container {
+        height: 50vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .image-container {
+        height: 50vh;
+        width: auto;
+        background-size: cover;
+        background-position: right;
+    }
+
+    .img-btech-logo {
+        height: 60px;
+        width: auto;
+    }
+
+    .heading-text {
+        font-size: 1.6rem;
+    }
+
+    .request-bttn {
+        width: 180px;
+        font-size: 16px;
+    }
+
+    .documentation-text {
+        padding: 20px;
+    }
+
+    .text-description {
+        font-size: .9rem;
+
+        margin: 5px;
+    }
+
+    .txt-header {
+        font-size: 1.2rem;
+    }
+
+    .txt1 {
+        font-size: 1rem;
+    }
+
+    /* Log in Button Styles */
+    .req-log-container {
+        height: 400px;
+        gap: 2.5rem;
+    }
+
+    .img-req-log {
+        height: 50vh;
+    }
+
+    .layer a {
+        font-size: 28px;
+    }
+
+    /* Register Button Styles */
+    .img-req-logs {
+        height: 50vh;
+    }
+
+    .layers a {
+        font-size: 28px;
+    }
+
+    /* Social Media Container Styles */
+    .soc-med-container {
+        height: 200px;
+    }
+
+    .btech-info-container {
+        height: 150px;
+    }
+
+    .btech-logo {
+        height: 60px;
+
+        padding: 0;
+        margin-left: 4px;
+        margin-bottom: 0;
+    }
+
+    .btech-contact-info {
+        font-size: .8rem;
+
+        padding: 2px;
+        margin: 4px;
+    }
+
+    .navText-container {
+        font-size: 0.8rem;
+    }
+
+    .btech-txt {
+        font-size: 0.9rem;
+    }
+
+    .newNavText-container {
+        margin-top: 5px;
+    }
+
+    .navText-pointer {
+        margin-top: 8px;
+    }
+
+    .text-credit {
+        font-size: 0.7rem;
+        width: 250px;
+    }
+
+    .btech-soc-med-icon-container {
+        width: 130px;
+    }
+}
+
+@media (max-width: 412px) {
+    .image-container {
+        height: 40vh;
+        min-height: 300px;
+        background-size: cover;
+        background-position: right;
+    }
+
+    .img-btech-logo {
+        height: 50px;
+        width: auto;
+    }
+
+    .heading-text {
+        font-size: 1rem;
+    }
+
+    .request-bttn {
+        width: 160px;
+        font-size: 14px;
+    }
+
+    .documentation-text {
+        padding: 15px;
+    }
+
+    .text-description {
+        font-size: .7rem;
+
+        margin: 5px;
+    }
+
+    .txt-header {
+        font-size: 1rem;
+    }
+
+    .txt1 {
+        font-size: .9rem;
+    }
+
+    /* Log in Button Styles */
+    .req-log-container {
+        height: 300px;
+        gap: 1.25rem;
+    }
+
+    .img-req-log {
+        height: 25vh;
+    }
+
+    .layer a {
+        font-size: 20px;
+    }
+
+    /* Register Button Styles */
+    .img-req-logs {
+        height: 25vh;
+    }
+
+    .layers a {
+        font-size: 20px;
+    }
+
+    /* Social Media Container Styles */
+    .soc-med-container {
+        height: 150px;
+    }
+
+    .btech-info-container {
+        height: 150px;
+    }
+
+    .btech-logo {
+        height: 60px;
+
+        margin-left: 5px;
+        margin-bottom: 0;
+    }
+
+    .btech-contact-info {
+        font-size: .6rem;
+        /* width: 120px; */
+
+        padding: 2px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 2px;
+    }
+
+    .navText-container {
+        font-size: 0.8rem;
+    }
+
+    .btech-txt {
+        font-size: 0.9rem;
+    }
+
+    .newNavText-container {
+        margin-top: 5px;
+    }
+
+    .navText-pointer {
+        margin-top: 8px;
+    }
+}
